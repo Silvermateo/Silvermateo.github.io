@@ -331,7 +331,7 @@ body::-webkit-scrollbar-thumb {
   display: flex;
   justify-content: center;
   height: 700px;
-  background-image: url(Imagenes/fondo-mapa.jpg) ;
+  background-image: url(Imagenes/fondo-mapa-link-index.jpg) ;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -375,6 +375,7 @@ body::-webkit-scrollbar-thumb {
   display: flex;
   margin: auto;
   padding: 10px;
+  height: 250px;
 }
 .info-box1{
   display: flex;
